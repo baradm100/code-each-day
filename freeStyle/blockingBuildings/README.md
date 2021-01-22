@@ -1,12 +1,12 @@
 # Blocking Building
 
-| Attribute                     | Value                           |
-| ----------------------------- | ------------------------------- |
-| Issued by                     | Bar Admoni (@baradm100)         |
-| Language Limitation           | N/A                             |
-| Runtime Complexity Limitation | O(n)                            |
-| Space Complexity Limitation   | N/A                             |
-| Source                        | AWS interview + Collage variant |
+| Attribute                     | Value                                                   |
+| ----------------------------- | ------------------------------------------------------- |
+| Issued by                     | Bar Admoni ([@baradm100](https://github.com/baradm100)) |
+| Language Limitation           | N/A                                                     |
+| Runtime Complexity Limitation | O(n)                                                    |
+| Space Complexity Limitation   | N/A                                                     |
+| Source                        | AWS interview + Collage variant                         |
 
 ## Question
 
