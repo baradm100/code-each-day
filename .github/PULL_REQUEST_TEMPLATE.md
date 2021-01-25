@@ -6,7 +6,7 @@
 
 # Description
 
-I'm too lazy to write my own description for the PR - therefor please don't approve this until I'll change this to be a meaningful description.
+I'm too lazy to write my own description for the PR - therefore please don't approve this until I'll change this to be a meaningful description.
 
 # Checkboxes
 

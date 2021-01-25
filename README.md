@@ -6,3 +6,5 @@ This is a repo is holding a group of questions and answers from a group of frien
 
 - [Free style](./freeStyle)
   - [blockingBuildings](./freeStyle/blockingBuildings)
+- [leet code](./leetcode)
+  - [RedundantConnection](./leetcode/RedundantConnection)
